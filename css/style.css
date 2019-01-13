@@ -2464,7 +2464,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 .about-img {
   position: absolute;
-  background: url(../images/about-img.jpg) scroll center no-repeat;
+  background: url("https://farm8.staticflickr.com/7853/31786428247_73b2a10b0c_k.jpg") scroll center no-repeat;
   background-size: cover;
   height: 100%;
 }
