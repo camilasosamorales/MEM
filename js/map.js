@@ -14,7 +14,7 @@ $(function () {
         }
         var map = new google.maps.Map(mapCanvas, mapOptions);
 
-        var markerImage = 'https://farm5.staticflickr.com/4877/46687923822_78303a4a99_t.jpg';
+        var markerImage = 'images/marker.png';
 
         var marker = new google.maps.Marker({
             position: location,
